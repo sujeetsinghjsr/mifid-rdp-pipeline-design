@@ -2,6 +2,14 @@
 
 Publicis Sapient | Jan 2026 – Present
 
+## Architecture
+
+<p align="center">
+  <img src="diagrams/anz-rdp-data-persistence.svg"
+       alt="Regulatory Data Pipeline Architecture"
+       width="100%">
+</p>
+
 ## Overview
 
 End-to-end design of a **Regulatory Data Pipeline (RDP)** for MiFID II ARM and APA
