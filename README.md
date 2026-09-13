@@ -1,11 +1,3 @@
-## Architecture
-
-<p align="center">
-  <img src="diagrams/anz-rdp-data-persistence.svg"
-       alt="ANZ-inspired Regulatory Data Persistence Pipeline"
-       width="100%">
-</p>
-
 # MiFID II Regulatory Data Pipeline (RDP) — Design & Architecture
 
 Publicis Sapient | Jan 2026 – Present
