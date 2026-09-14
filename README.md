@@ -1,11 +1,11 @@
 # MiFID II Regulatory Data Pipeline (RDP) — Design & Architecture
 
-Publicis Sapient | Jan 2026 – Present
+> ANZ Bank London Branch | Publicis Sapient | Jan 2026 – Present
 
 ## Overview
 
 End-to-end design of a **Regulatory Data Pipeline (RDP)** for MiFID II ARM and APA
-reporting, processing 35+ Murex MX3 MxML message types through
+reporting at ANZ London Branch, processing 35+ Murex MX3 MxML message types through
 9 pipeline stages into regulatory submissions.
 
 ## Pipeline Architecture
